@@ -435,28 +435,28 @@
             .row.justify-content-center.mb-3
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/tema5/img31.svg', alt='')(style="width: 85%")
+                  img.img-tema5-85(src='@/assets/curso/tema5/img31.svg' alt='')
             h4.text-center A. Definición de datos de prueba
             p.mb-0(data-aos="fade-down") Selección de valores de entrada que permitan evaluar diferentes escenarios del algoritmo, incluyendo casos normales, extremos y posibles errores.
           .col-xl.col-lg-6.tarjeta.tarjeta--C13.p-5
             .row.justify-content-center.mb-3
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/tema5/img32.svg', alt='')(style="width: 85%")
+                  img.img-tema5-85(src='@/assets/curso/tema5/img32.svg' alt='')
             h4.text-center B. Ejecución paso a paso
             p.mb-0(data-aos="fade-down") Seguimiento detallado de cada instrucción del algoritmo, registrando los cambios en las variables en cada etapa del proceso.
           .col-xl.col-lg-6.tarjeta.tarjeta--C12.p-5
             .row.justify-content-center.mb-3
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/tema5/img33.svg', alt='')(style="width: 85%")
+                  img.img-tema5-85(src='@/assets/curso/tema5/img33.svg' alt='')
             h4.text-center C. Registro de resultados
             p.mb-0(data-aos="fade-down") Documentación de los valores obtenidos en cada iteración o paso, generalmente mediante tablas de trazabilidad.
           .col-xl.col-lg-6.tarjeta.tarjeta--C15.p-5
             .row.justify-content-center.mb-3
               .col-lg-7.col-4
                 figure(data-aos="fade-up")
-                  img(src='@/assets/curso/tema5/img34.svg', alt='')(style="width: 85%")
+                  img.img-tema5-85(src='@/assets/curso/tema5/img34.svg' alt='')
             h4.text-center D. Análisis y validación
             p.mb-0(data-aos="fade-down") Comparación de los resultados obtenidos con los esperados, identificando posibles inconsistencias o errores en la lógica.
     p.mb-0(data-aos="fade-down") La aplicación de pruebas de escritorio permite asegurar que los algoritmos sean correctos, eficientes y confiables, facilitando su implementación posterior y reduciendo la probabilidad de errores en el desarrollo de programas.
