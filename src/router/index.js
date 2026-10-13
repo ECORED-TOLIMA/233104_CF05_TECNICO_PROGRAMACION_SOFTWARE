@@ -48,6 +48,18 @@ const router = new VueRouter({
           component: () =>
             import(/* webpackChunkName: "tema3" */ '../views/Tema3.vue'),
         },
+        {
+          path: 'tema4',
+          name: 'tema4',
+          component: () =>
+            import(/* webpackChunkName: "tema4" */ '../views/Tema4.vue'),
+        },
+        {
+          path: 'tema5',
+          name: 'tema5',
+          component: () =>
+            import(/* webpackChunkName: "tema5" */ '../views/Tema5.vue'),
+        },
       ],
     },
     {
@@ -72,10 +84,10 @@ const router = new VueRouter({
       component: Referencias,
     },
     {
-      path: '/sintesis',
-      name: 'sintesis',
+      path: '/Sintesis',
+      name: 'Sintesis',
       component: () =>
-        import(/* webpackChunkName: "sintesis" */ '../views/sintesis.vue'),
+        import(/* webpackChunkName: "Sintesis" */ '../views/Sintesis.vue'),
     },
     {
       path: '/creditos',
