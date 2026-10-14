@@ -8,7 +8,7 @@
       h1 Fundamentos de lógica y algoritmia
     figure.mb-4
       img(src='@/assets/curso/tema1/img01.png', alt='')
-    p.mb-4(data-aos="fade-down") Los fundamentos de lógica y algoritmia proporcionan la base conceptual para desarrollar soluciones en programación, permitiendo estructurar procesos de forma ordenada, coherente y orientada a resolver problemas. A continuación, una breve diferenciación:
+    p.mb-4(data-aos="fade-down") Los fundamentos de lógica y algoritmia proporcionan la base conceptual para desarrollar soluciones en programación, permitiendo estructurar procesos de forma ordenada, coherente y orientada a resolver problemas. A continuación, se presenta una breve diferenciación:
     .row.justify-content-center.mb-4
       .col.col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-left")
         .tarjeta-avatar-b.h-100

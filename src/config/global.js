@@ -58,7 +58,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Metodologías de análisis y diseño de algoritmos',
+            titulo: 'Metodologías para el análisis y diseño de algoritmos',
             hash: 't_2_1',
           },
           {
@@ -268,52 +268,52 @@ export default {
   referencias: [
     {
       referencia:
-        'Aho, A. V., Lam, M. S., Sethi, R. & Ullman, J. D. (2006). <em>Compilers: Principles, Techniques, and Tools</em> (2nd ed.). Pearson.',
+        'Aho, A. V., Lam, M. S., Sethi, R. & Ullman, J. D. (2006). Compilers: Principles, Techniques, and Tools (2nd ed.). Pearson.',
       link: '',
     },
     {
       referencia:
-        'Cormen, T. H., Leiserson, C. E., Rivest, R. L. & Stein, C. (2022). <em>Introduction to Algorithms</em> (4th ed.). MIT Press.',
+        'Cormen, T. H., Leiserson, C. E., Rivest, R. L. & Stein, C. (2022). Introduction to Algorithms (4th ed.). MIT Press.',
       link: '',
     },
     {
       referencia:
-        'Deitel, P. & Deitel, H. (2017). C <em>How to Program</em> (8th ed.). Pearson.',
+        'Deitel, P. & Deitel, H. (2017). C How to Program (8th ed.). Pearson.',
       link: '',
     },
     {
       referencia:
-        'Joyanes Aguilar, L. (2013). <em>Fundamentos de programación: algoritmos, estructura de datos y objetos</em> (5ª ed.). McGraw-Hill.',
+        'Joyanes Aguilar, L. (2013). Fundamentos de programación: algoritmos, estructura de datos y objetos (5ª ed.). McGraw-Hill.',
       link: '',
     },
     {
       referencia:
-        'Knuth, D. E. (1997). <em>The Art of Computer Programming, Volume 1: Fundamental Algorithms</em> (3rd ed.). Addison-Wesley.',
+        'Knuth, D. E. (1997). The Art of Computer Programming, Volume 1: Fundamental Algorithms (3rd ed.). Addison-Wesley.',
       link: '',
     },
     {
       referencia:
-        'Pressman, R. S., & Maxim, B. R. (2020). <em>Ingeniería de <em>software</em>: un enfoque práctico</em> (9ª ed.). McGraw-Hill.',
+        'Pressman, R. S., & Maxim, B. R. (2020). Ingeniería de software: un enfoque práctico (9ª ed.). McGraw-Hill.',
       link: '',
     },
     {
       referencia:
-        'Rosen, K. H. (2019). <em>Discrete Mathematics and Its Applications</em> (8th ed.). McGraw-Hill.',
+        'Rosen, K. H. (2019). Discrete Mathematics and Its Applications (8th ed.). McGraw-Hill.',
       link: '',
     },
     {
       referencia:
-        'Sebesta, R. W. (2016). <em>Concepts of Programming Languages</em> (11th ed.). Pearson.',
+        'Sebesta, R. W. (2016). Concepts of Programming Languages (11th ed.). Pearson.',
       link: '',
     },
     {
       referencia:
-        'Sommerville, I. (2016). <em><em>software</em> Engineering</em> (10th ed.). Pearson.',
+        'Sommerville, I. (2016). software Engineering (10th ed.). Pearson.',
       link: '',
     },
     {
       referencia:
-        'Wirth, N. (1976). <em>Algorithms + Data Structures = Programs</em>. Prentice Hall.',
+        'Wirth, N. (1976). Algorithms + Data Structures = Programs. Prentice Hall.',
       link: '',
     },
   ],

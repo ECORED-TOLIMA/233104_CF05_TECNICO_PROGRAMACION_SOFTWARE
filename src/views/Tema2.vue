@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Metodologías para el diseño de algoritmos
+      h1 Metodologías para el análisis y diseño de algoritmos
     p.mb-4(data-aos="fade-down") Las metodologías para el diseño de algoritmos constituyen un conjunto de enfoques estructurados que orientan la construcción de soluciones lógicas, facilitando la transformación de problemas en procedimientos claros, ordenados y verificables. Su aplicación permite garantizar que los algoritmos sean comprensibles, eficientes y adaptables a diferentes contextos de solución.
     .row.justify-content-center.mb-4
       .col.col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3.d-none.d-lg-block
@@ -24,7 +24,7 @@
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.1 Metodologías de análisis y diseño de algoritmos
-    p(data-aos="fade-down") Las metodologías de análisis y diseño de algoritmos establecen un marco estructurado para abordar la solución de problemas de manera lógica, organizada y eficiente. Estas metodologías orientan al usuario desde la comprensión inicial del problema hasta la construcción de una solución formal, asegurando coherencia entre los requerimientos planteados y el resultado obtenido.
+    p(data-aos="fade-down") Las metodologías para el análisis y diseño de algoritmos establecen un marco estructurado para abordar la solución de problemas de manera lógica, organizada y eficiente. Estas metodologías orientan al usuario desde la comprensión inicial del problema hasta la construcción de una solución formal, asegurando coherencia entre los requerimientos planteados y el resultado obtenido.
     p.mb-4(data-aos="fade-down") Desde esta perspectiva:
     .row.justify-content-center.mb-4
       .col.col-lg-6.col-12.mb-4.mb-lg-0(data-aos="fade-left")
