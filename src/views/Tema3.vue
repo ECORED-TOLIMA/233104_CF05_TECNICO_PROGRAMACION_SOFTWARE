@@ -309,7 +309,7 @@
       .col.col-lg-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/VBffPGz3gY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/p5JLzjt6vhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.4 Operadores y jerarquía de operadores
