@@ -262,7 +262,7 @@
           img(src='@/assets/curso/tema5/img12.svg', alt='')
       .col.col-lg-9.col-12.order-lg-2.order-2
         .cajon.cajon.C07.px-4.py-3
-          p.mb-0(data-aos="fade-down") Igualmente, se relaciona un diagrama de fujo sobre la detección de errores y con ello se puede apreciar de manera directa el debido accionar ante un acontecimiento real:
+          p.mb-0(data-aos="fade-down") Igualmente, se relaciona un diagrama de flujo sobre la detección de errores y con ello se puede apreciar de manera directa el debido accionar ante un acontecimiento real:
     .row.justify-content-center.mb-4.figura-flujo-ajuste(data-aos="flip-up")
       .col-lg-12.col-12
         .titulo-sexto.color-acento-contenido

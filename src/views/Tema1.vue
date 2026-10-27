@@ -147,7 +147,7 @@
             .col-lg-6.col-sm-4.col-6
               img(src='@/assets/curso/tema1/img18.svg' alt='')
           h4.text-center Comprensión del problema
-          p identificación clara de la situación a resolver, evitando interpretaciones ambiguas.
+          p Identificación clara de la situación a resolver, evitando interpretaciones ambiguas.
         .tarjeta.tarjeta--C11.p-4
           .row.justify-content-center.mb-3
             .col-lg-6.col-sm-4.col-6

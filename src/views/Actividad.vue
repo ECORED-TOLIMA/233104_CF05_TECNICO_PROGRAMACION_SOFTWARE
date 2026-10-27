@@ -133,10 +133,10 @@ export default {
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
-            { id: 'a', texto: '<em>bottom-up</em>.', esCorrecta: false },
+            { id: 'a', texto: '<em>Bottom-up</em>.', esCorrecta: false },
             { id: 'b', texto: 'Iterativa.', esCorrecta: false },
             { id: 'c', texto: 'Modular.', esCorrecta: false },
-            { id: 'd', texto: '<em>top-down</em>.', esCorrecta: true },
+            { id: 'd', texto: '<em>Top-down</em>.', esCorrecta: true },
           ],
           mensaje_correcto:
             '¡Excelente trabajo! El enfoque descendente facilita la organización de soluciones.',
